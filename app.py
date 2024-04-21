@@ -60,7 +60,7 @@ fillerWordsUsed = 0
 count = 0
 interviewDone = False
 questionsForInterview = 1
-openai.api_key = "sk-proj-mwLm3MVg8KZrYCIfTbrST3BlbkFJDYiyxjSz4El1iG2Iinby"
+# openai.api_key = ""
 result = ''
 def setResult(string):
     global result
