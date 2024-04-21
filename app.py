@@ -60,7 +60,6 @@ fillerWordsUsed = 0
 count = 0
 interviewDone = False
 questionsForInterview = 1
-# openai.api_key = ""
 result = ''
 def setResult(string):
     global result
